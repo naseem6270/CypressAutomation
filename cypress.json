@@ -1,0 +1,9 @@
+{
+    "baseUrl": "http://automationpractice.multiformis.com/index.php",
+    "ignoreTestFiles": [
+        "**/1-getting-started/*.js",
+        "**/2-advanced-examples/*.js"
+    ],
+    "viewportHeight": 768,
+    "viewportWidth": 1024
+}

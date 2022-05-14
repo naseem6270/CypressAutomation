@@ -1,0 +1,8 @@
+{
+  "email": "ahmednaseem143@gmail.com",
+  "password": "Password@123",
+  "invalid_email": "invalid@email.com",
+  "invalid_password": "invalidpassword",
+  "invalid_email_format": "ahmednaseem143gmail.com",
+  "invalid_password_format": "P"
+}
